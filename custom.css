@@ -1,0 +1,13 @@
+/* Swatch styling for ACF radio field */
+.acf-field-brand_color .acf-radio-list label {
+  display: inline-block;
+  cursor: pointer;
+}
+
+.acf-field-brand_color .acf-radio-list input {
+  display: none; /* hide radio button circles */
+}
+
+.acf-field-brand_color .acf-radio-list label span {
+  display: inline-block;
+  width: 
