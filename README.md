@@ -110,7 +110,9 @@ acf.add_action('ready append', function($el){
 </script>
 <?php });
 ```
-See Screenshot: 
 
-[logo]: https://github.com/hcanning/acf-colorpicker-swatch/blob/main/swatch-circles.png "Screenshot"
+
+See Screenshot: (https://github.com/hcanning/acf-colorpicker-swatch/blob/main/swatch-circles.png)
+
+![alt text](https://github.com/hcanning/acf-colorpicker-swatch/blob/main/swatch-circles.png "Screenshot")
 
