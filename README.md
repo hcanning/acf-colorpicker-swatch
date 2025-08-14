@@ -1,7 +1,7 @@
 # acf-colorpicker-swatch
 Create a Swatch only field for use in ACF
 
-Create a Radio or Select Field in ACF called "brand_name"
+Create a Radio or Select Field in ACF called "brand_color"
 
 Add your palette e.g:
 ```
