@@ -116,3 +116,8 @@ See Screenshot: (https://github.com/hcanning/acf-colorpicker-swatch/blob/main/sw
 
 ![alt text](https://github.com/hcanning/acf-colorpicker-swatch/blob/main/swatch-circles.png "Screenshot")
 
+Clone Field: https://www.advancedcustomfields.com/resources/clone/
+
+![alt text](https://github.com/hcanning/acf-colorpicker-swatch/blob/main/clone-fields.png "Clone Field")
+
+
